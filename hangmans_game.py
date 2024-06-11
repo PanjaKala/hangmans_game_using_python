@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
 
 import random
 stages = ['''
@@ -87,9 +82,6 @@ while not game_over:
         game_over=True
         print("You win!!!!😁")
     print(stages[lives])
-
-
-# In[ ]:
 
 
 
